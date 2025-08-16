@@ -5,9 +5,14 @@ A simple C program that allows the user to select a Bike Part and prints the cho
 **How it works:**
 
 Lets users choose an accessory from:
-Air Filter\n
+Air Filter
+
 Petrol Filter
+
 Brake Shoe
+
 Spark plug
+
 Uses switch statement for decision-making
+
 Default option for invalid input
